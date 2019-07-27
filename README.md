@@ -1,1 +1,1 @@
-# Laboratorio-Paradigmas-C-
+# Laboratorio Paradigmas en C#

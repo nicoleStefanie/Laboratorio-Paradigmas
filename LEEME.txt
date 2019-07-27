@@ -1,0 +1,2 @@
+Indicación:
+Abrir el proyecto Candy Crush, ademas de tener abierto el proyecto WebApplication1, este ultimo se puede tener abierto en Visual Studio en modo de Ejecutar como administrador", ejecutar primero este (la dirrecion url del para inciar el servicio puede que no funcione, ya que es de una direccion url especifica), y luego el proyecto Candy Crush, como ademas de la base de datos a traves de Worckbench

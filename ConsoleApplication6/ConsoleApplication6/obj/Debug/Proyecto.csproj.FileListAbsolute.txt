@@ -1,0 +1,21 @@
+c:\users\nicole\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+c:\users\nicole\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+c:\users\nicole\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+c:\users\nicole\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\MySql.Data.dll
+c:\users\nicole\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\bin\Debug\MySql.Data.xml
+c:\users\nicole\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+c:\users\nicole\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+c:\users\nicole\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+c:\users\nicole\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.Vistas.Form5.resources
+c:\users\nicole\documents\visual studio 2015\Projects\ConsoleApplication6\ConsoleApplication6\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\Nicole\Desktop\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\Nicole\Desktop\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\Nicole\Desktop\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb
+C:\Users\Nicole\Desktop\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\Nicole\Desktop\ConsoleApplication6\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\Nicole\Desktop\ConsoleApplication6\ConsoleApplication6\bin\Debug\MySql.Data.dll
+C:\Users\Nicole\Desktop\ConsoleApplication6\ConsoleApplication6\bin\Debug\MySql.Data.xml
+C:\Users\Nicole\Desktop\ConsoleApplication6\ConsoleApplication6\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Nicole\Desktop\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.Vistas.Form5.resources
+C:\Users\Nicole\Desktop\ConsoleApplication6\ConsoleApplication6\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\Nicole\Desktop\ConsoleApplication6\ConsoleApplication6\obj\Debug\ConsoleApplication6.Vistas.Form6.resources
